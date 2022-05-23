@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/movie/kirigiri_tray.gif</file>
+        <file>res/img/about.png</file>
+    </qresource>
+</RCC>
